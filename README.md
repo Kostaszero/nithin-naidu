@@ -1,4 +1,5 @@
-This is my portfolio project developed using ReactJS
+This is my portfolio project developed using ReactJS.
+
 You can visit the site ( on the right side, look under the 'About' section).
 
 ## Getting Started
