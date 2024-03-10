@@ -1,0 +1,37 @@
+/* main{
+  min-height: 100vh;
+  padding: 40px 100px;
+}
+header{
+  border: 1px solid #0000005c;
+  border-radius: 5px;
+}
+.bg-img{
+  height: 100%;
+  width: 100%;
+}
+.profile-cnt{
+  position: absolute;
+  top: 36%;
+  left: 8%;
+}
+.profile-img{
+  height: 250px;
+  border: 2px solid var(--bg-color);
+  padding: 5px;
+  background-color: var(--black);
+}
+.nav{
+  display: flex;
+  margin-left: 320px;
+}
+.nav-item{
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 18px;
+  padding: 20px 40px;
+  border-left: 1px solid #0000005c;
+}
+.nav-item:last-child{
+  border-right: 1px solid #0000005c;
+} */
