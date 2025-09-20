@@ -18,4 +18,4 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:8000](http://localhost:8000) with your browser to see the result.
+Open [http://localhost:8000](http://localhost:8000) in your browser to see the result.
